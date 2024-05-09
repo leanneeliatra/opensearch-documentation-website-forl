@@ -8,7 +8,7 @@ redirect_from:
   - /security-plugin/configuration/
   - /security-plugin/configuration/index/
 ---
-
+# comment
 # Security configuration
 
 The plugin includes demo certificates so that you can get up and running quickly. To use OpenSearch in a production environment, you must configure it manually:
