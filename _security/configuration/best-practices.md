@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Best Practices
-parent: Best Practices
-nav_order: 11
+title: Best practices
+parent: Best practices
+nav_order: 2
 ---
 
 # Best Practices for OpenSearch Security plugin
